@@ -1,0 +1,28 @@
+/* universal styling */
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+/* main div */
+.container{
+    background-color: coral;
+    padding: 2em;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+/* buttons styling */
+#btn{
+    background-color:rgb(191, 205, 191);
+    border-style: none;
+    padding: 1em;
+    border-radius: 1em;
+    cursor: pointer;
+}
+/* event paragraph styling */
+#event{
+    background-color: rgb(233, 237, 124);
+    padding: 1em;
+    height: 2em;
+    font-size: 2em;
+    font-weight: bold;
+}
